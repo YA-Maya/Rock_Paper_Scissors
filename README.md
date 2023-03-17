@@ -1,6 +1,15 @@
 # Rock_Paper_Scissors
 
- I'm absolutely thrilled with my rock-paper-scissors project! This was one of the most challenging endeavors I've taken on, utilizing HTML, CSS, and JavaScript. However, I found ways to make it enjoyable by breaking down the larger tasks into smaller ones and turning to Stack Overflow for assistance. Ultimately, I'm extremely proud of how it turned out!
+# My First project 
+One project that I'm particularly proud of is my implementation of the classic game, Rock, Paper, and Scissors. It was a challenging project that required a combination of skills in HTML, CSS, and JavaScript. Despite the difficulties, I was able to complete the project successfully by employing a number of strategies.
+
+To start with, I made use of online resources such as Stack Overflow to help me navigate through some of the more complicated aspects of the project. By searching through various forums and discussions, I was able to find solutions to a number of issues that had stumped me initially.
+
+Another technique that proved helpful was breaking down the larger tasks involved in the project into smaller, more manageable steps. This allowed me to focus on one aspect of the project at a time, which made it easier to identify and solve any problems that arose.
+
+In addition to these strategies, I also found that testing my code regularly helped me to catch errors and bugs early on in the development process. By doing so, I was able to avoid more significant problems down the line and ensure that the final product was as polished and functional as possible.
+
+Overall, I'm really proud of the work I put into this project. Not only did it allow me to develop my skills in web development, but it also gave me a sense of satisfaction and accomplishment to see the final result come together. 
 
 ## Tech Stack
 - HTML
