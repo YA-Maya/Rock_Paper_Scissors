@@ -16,6 +16,9 @@ Overall, I'm really proud of the work I put into this project. Not only did it a
 - CSS
 - JavaScript
 
+## Link
+https://sumeya.tech/RPS/rindex.html
+
 ## Screenshots
 
 
